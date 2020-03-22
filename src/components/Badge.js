@@ -1,7 +1,7 @@
 import React from 'react';
 
 import './styles/Badge.css';
-import confLogo from '../images/Raven-With-Key-Minus-Raven-And-Key-Flowers.svg';
+import confLogo from '../images/Logo.svg';
 
 class Badge extends React.Component {
   render() {
